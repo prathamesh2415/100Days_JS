@@ -17,3 +17,7 @@ accountPassword = "4567"
 accountCity= "Bengaluru"
 
 console.table([accountEmail,accountPassword,accountCity])
+
+/*
+Prefer not to use var because of issue in block scope and functional scope
+*/
